@@ -71,7 +71,7 @@ workingPath="`dirname $0`/QWResign"
 
 # 原ipa路径
 #read -p ".ipa path: " originalIpaPath
-##originalIpaPath="/Users/Wayne/Documents/淘宝/用户数据/挥霍光阴/lunhui-resigned.ipa"
+##originalIpaPath="/Users/Wayne/Documents/lunhui-resigned.ipa"
 
 # Bundle ID
 #read -p "Bundle ID: " bundleID
