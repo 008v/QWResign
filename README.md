@@ -1,5 +1,5 @@
 # QWResign
-change the code sign of an IPA file
+QWResign is a lightweight script that resigns the ipa file on macOS.
 
 # Usage
 ```
