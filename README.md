@@ -2,8 +2,8 @@
 change the code sign of an IPA file
 
 # Usage
-
-sh QWResign -s <string> -i <path> [-b <string>] [-m <path>] [-e <path>]
+```
+sh QWResign.sh -s <string> -i <path> [-b <string>] [-m <path>] [-e <path>]
     Options:
     -s \t signature string
     -i \t .ipa file path
@@ -11,3 +11,4 @@ sh QWResign -s <string> -i <path> [-b <string>] [-m <path>] [-e <path>]
     -m \t provisioning profile path
     -e \t entitlements.plist path
 
+```
