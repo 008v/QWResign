@@ -1,8 +1,10 @@
+![](https://img.shields.io/badge/platform-OSX-lightgrey.svg)
+
 # QWResign
 QWResign is a lightweight script that resigns the ipa file on macOS.
 
 # Usage
-```
+```bash
 sh QWResign.sh -s <string> -i <path> [-b <string>] [-m <path>] [-e <path>]
     Options:
     -s \t signature string
